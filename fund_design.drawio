@@ -1435,7 +1435,7 @@
             <mxRectangle width="249" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CElzx2a6UqYc9w5Hz-Yp-461" value="本次入账把所有挂账都清空，还有余额" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="CElzx2a6UqYc9w5Hz-Yp-461" value="本次入账把所有挂账都清了，还有余额" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1790" y="2160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CElzx2a6UqYc9w5Hz-Yp-462" value="存在一种极端情况&lt;div&gt;收入和挂账持平&lt;/div&gt;&lt;div&gt;看是否需要马上修改账户状态为正常&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
