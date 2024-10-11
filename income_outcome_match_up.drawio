@@ -677,6 +677,9 @@
         <mxCell id="J3dnYGCY9nzJkl_79Sq--154" value="预约 -&amp;gt;&amp;nbsp; 接洽 -&amp;gt; 开户成功 -&amp;gt; 复核 -&amp;gt; 结算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1868" y="630" width="400" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J3dnYGCY9nzJkl_79Sq--155" value="预约作废，积分删除 -&amp;gt; 结算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1855" y="700" width="400" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
