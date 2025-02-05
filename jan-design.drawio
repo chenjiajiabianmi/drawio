@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="1c5j7TkLf0kEHYQvg_LL">
-    <mxGraphModel dx="4931" dy="2348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3392" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,8 +432,11 @@
         <mxCell id="c5Mr7ToMObOQHb0oXVFw-130" value="三方系统资金&lt;div&gt;划转失败&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="2230" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="c5Mr7ToMObOQHb0oXVFw-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c5Mr7ToMObOQHb0oXVFw-132" target="c5Mr7ToMObOQHb0oXVFw-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c5Mr7ToMObOQHb0oXVFw-132" value="占用扣减 + 冻结单据完结" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="641" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c5Mr7ToMObOQHb0oXVFw-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="c5Mr7ToMObOQHb0oXVFw-134" target="c5Mr7ToMObOQHb0oXVFw-135">
           <mxGeometry relative="1" as="geometry" />
